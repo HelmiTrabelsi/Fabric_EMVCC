@@ -1,0 +1,28 @@
+---
+test:
+  workers:
+    type: local
+    number: 1
+  rounds:
+    - label: change Car Owner.
+      txNumber: 200
+      rateControl:
+        type: fixed-rate
+        opts:
+          tps: 100
+      workload:
+        module: caliper/fabcar/changeCarOwner.js
+        arguments:
+          assets: 50
+monitors:
+  resource:
+  - module: docker
+    options:
+      interval: 5 
+      containers:
+      - all
+
+   
+
+
+

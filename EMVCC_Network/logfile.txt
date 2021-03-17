@@ -1,0 +1,1365 @@
+1111111: &{0xc000205040}
+Before RW operation: map[]
+Can't remove a not founded transaction
+Can't remove a not founded transaction
+Can't remove a not founded transaction
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n#\n!namespaces/fields/fabcar/Sequence\n\034\n\032namespaces/metadata/fabcar" collection_hashed_rwset:<collection_name:"_implicit_org_Org1MSP" hashed_rwset:"\n\"\n YI+>\371\262\3720M\225\231\376b\363\246\374X%\312\313\345\254\207\212\003t\212\037\327\003\002\364\n\"\n \025\313\375\202\264\177\337\n\275\2447\270R\313\247\216\036kQ{\023\237t\230\013G\244\242\255\352\031\334\022D\n \373\355\265Jf\341j#>\371\273\253,\250\"\200\325\nN\310S\301\252\372\355\355\207_\2174\265\346\032 =Jk\376\2623\027Yf\361xA4I\257E\004\224A\330\331\022\365l`\223\\\020G\256\277\274\022D\n YI+>\371\262\3720M\225\231\376b\363\246\374X%\312\313\345\254\207\212\003t\212\037\327\003\002\364\032 iR\355\340\"\313\256\225\236\033J\240\332\324~\205\274\236\036N\235\215\374\360\210Py4\210\013\276u\022D\n 6VSO\372\360\206\207\037\022\nC\216\020\304\\\225\256\275+\342\323m\200\341\365j\351\010\305\0363\032 \010\332|E\313 Cw\347\344\"I\315\245q?\250e\021m\333\264\313Z\031I\262\345\2648\246\253\022D\n \267\272CXbH\027I4\005(X2\236\264~\324\\\250\366N\205=\213\016\316\377\315R\031p\014\032 \014R\243\333\307\263\"\3775r\212\375\326\221$L\374\017\311\304t<%KW\005\232#\224\341M\257\022D\n \227$\020\003\336\3015A\317\320@\314\337(\207\300\035\276\"\226C\275\213\373\314J>\026\2753\243\312\032 \030\243\010\364\210\237Nm\\\264xH\215\212\021\337\321\373\311\214\307\220\245\345\221\362t\304Pu\267R\022D\n \025\313\375\202\264\177\337\n\275\2447\270R\313\247\216\036kQ{\023\237t\230\013G\244\242\255\352\031\334\032 \231\0242\333s\376\336\023\355\275*a\260\340\351+\261/<HK\340\266`\312\370\260\303\036\361G\006" pvt_rwset_hash:"Dxb\303\303\343v\345\206~\314\265\345\245\036\2022Hc\236r\307\230|\360\305bR/\034\0101" >  namespace:"lscc" rwset:"\n\010\n\006fabcar" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence"  key:"namespaces/metadata/fabcar" ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence"  key:"namespaces/metadata/fabcar" ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+Rset key: namespaces/metadata/fabcar
+Result of search: false
+kvRwset:{[key:"fabcar" ] [] [] [] {} [] 0}
+reads:[key:"fabcar" ]
+Writes:[]
+Rset key: fabcar
+Result of search: false
+After RW operation: map[]
+Can't remove a not founded transaction
+Can't remove a not founded transaction
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n#\n!namespaces/fields/fabcar/Sequence\n\034\n\032namespaces/metadata/fabcar\032*\n$namespaces/fields/fabcar/Collections\032\002\022\000\0327\n(namespaces/fields/fabcar/EndorsementInfo\032\013\022\t\n\0011\032\004escc\032'\n!namespaces/fields/fabcar/Sequence\032\002\010\001\032W\n'namespaces/fields/fabcar/ValidationInfo\032,\022*\n\004vscc\022\"\022 /Channel/Application/Endorsement\032k\n\032namespaces/metadata/fabcar\032M\n\023ChaincodeDefinition\022\010Sequence\022\017EndorsementInfo\022\016ValidationInfo\022\013Collections" collection_hashed_rwset:<collection_name:"_implicit_org_Org1MSP" hashed_rwset:"\n&\n 6VSO\372\360\206\207\037\022\nC\216\020\304\\\225\256\275+\342\323m\200\341\365j\351\010\305\0363\022\002\010\003\n&\n \267\272CXbH\027I4\005(X2\236\264~\324\\\250\366N\205=\213\016\316\377\315R\031p\014\022\002\010\003\n&\n \227$\020\003\336\3015A\317\320@\314\337(\207\300\035\276\"\226C\275\213\373\314J>\026\2753\243\312\022\002\010\003\n&\n \025\313\375\202\264\177\337\n\275\2447\270R\313\247\216\036kQ{\023\237t\230\013G\244\242\255\352\031\334\022\002\010\003" > collection_hashed_rwset:<collection_name:"_implicit_org_Org2MSP" hashed_rwset:"\n&\n 6VSO\372\360\206\207\037\022\nC\216\020\304\\\225\256\275+\342\323m\200\341\365j\351\010\305\0363\022\002\010\004\n&\n \267\272CXbH\027I4\005(X2\236\264~\324\\\250\366N\205=\213\016\316\377\315R\031p\014\022\002\010\004\n&\n \227$\020\003\336\3015A\317\320@\314\337(\207\300\035\276\"\226C\275\213\373\314J>\026\2753\243\312\022\002\010\004\n&\n \025\313\375\202\264\177\337\n\275\2447\270R\313\247\216\036kQ{\023\237t\230\013G\244\242\255\352\031\334\022\002\010\004" >  namespace:"lscc" rwset:"\n\010\n\006fabcar" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence"  key:"namespaces/metadata/fabcar" ] [] [key:"namespaces/fields/fabcar/Collections" value:"\022\000"  key:"namespaces/fields/fabcar/EndorsementInfo" value:"\022\t\n\0011\032\004escc"  key:"namespaces/fields/fabcar/Sequence" value:"\010\001"  key:"namespaces/fields/fabcar/ValidationInfo" value:"\022*\n\004vscc\022\"\022 /Channel/Application/Endorsement"  key:"namespaces/metadata/fabcar" value:"\n\023ChaincodeDefinition\022\010Sequence\022\017EndorsementInfo\022\016ValidationInfo\022\013Collections" ] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence"  key:"namespaces/metadata/fabcar" ]
+Writes:[key:"namespaces/fields/fabcar/Collections" value:"\022\000"  key:"namespaces/fields/fabcar/EndorsementInfo" value:"\022\t\n\0011\032\004escc"  key:"namespaces/fields/fabcar/Sequence" value:"\010\001"  key:"namespaces/fields/fabcar/ValidationInfo" value:"\022*\n\004vscc\022\"\022 /Channel/Application/Endorsement"  key:"namespaces/metadata/fabcar" value:"\n\023ChaincodeDefinition\022\010Sequence\022\017EndorsementInfo\022\016ValidationInfo\022\013Collections" ]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+Rset key: namespaces/metadata/fabcar
+Result of search: false
+kvRwset:{[key:"fabcar" ] [] [] [] {} [] 0}
+reads:[key:"fabcar" ]
+Writes:[]
+Rset key: fabcar
+Result of search: false
+After RW operation: map[437904778a35aa5b2488e3b6ce8f399bcdebb96f50abb776f9fb3be2436bf615:[namespaces/fields/fabcar/Collections namespaces/fields/fabcar/EndorsementInfo namespaces/fields/fabcar/Sequence namespaces/fields/fabcar/ValidationInfo namespaces/metadata/fabcar]]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032L\n\004CAR1\032D{\"make\":\"Peugeot\",\"model\":\"Mustang\",\"colour\":\"brown\",\"owner\":\"Brad\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"CAR1" value:"{\"make\":\"Peugeot\",\"model\":\"Mustang\",\"colour\":\"brown\",\"owner\":\"Brad\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"CAR1" value:"{\"make\":\"Peugeot\",\"model\":\"Mustang\",\"colour\":\"brown\",\"owner\":\"Brad\"}" ]
+After RW operation: map[f915626d84a7ac4b84296a9c256b144e18b5e2dbca7f2b2434ab0e1bfd381cea:[CAR1]]
+Before RW operation: map[f915626d84a7ac4b84296a9c256b144e18b5e2dbca7f2b2434ab0e1bfd381cea:[CAR1]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032U\n\014CARundefined\032E{\"make\":\"Chery\",\"model\":\"Tucson\",\"colour\":\"yellow\",\"owner\":\"Shotaro\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"CARundefined" value:"{\"make\":\"Chery\",\"model\":\"Tucson\",\"colour\":\"yellow\",\"owner\":\"Shotaro\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"CARundefined" value:"{\"make\":\"Chery\",\"model\":\"Tucson\",\"colour\":\"yellow\",\"owner\":\"Shotaro\"}" ]
+After RW operation: map[e8cb92aae5dbfef7542fc24710b1b0a65534af2411e5b27d7cf1c7b5898f5f9d:[CARundefined] f915626d84a7ac4b84296a9c256b144e18b5e2dbca7f2b2434ab0e1bfd381cea:[CAR1]]
+Before RW operation: map[e8cb92aae5dbfef7542fc24710b1b0a65534af2411e5b27d7cf1c7b5898f5f9d:[CARundefined] f915626d84a7ac4b84296a9c256b144e18b5e2dbca7f2b2434ab0e1bfd381cea:[CAR1]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032J\n\014CARundefined\032:{\"make\":\"Tata\",\"model\":\"S\",\"colour\":\"blue\",\"owner\":\"Brad\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"CARundefined" value:"{\"make\":\"Tata\",\"model\":\"S\",\"colour\":\"blue\",\"owner\":\"Brad\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"CARundefined" value:"{\"make\":\"Tata\",\"model\":\"S\",\"colour\":\"blue\",\"owner\":\"Brad\"}" ]
+After RW operation: map[e8cb92aae5dbfef7542fc24710b1b0a65534af2411e5b27d7cf1c7b5898f5f9d:[CARundefined] f83a470d898a5ce367279ffc394bf1d638f3efbdd6aacd8dc16e9ea313b8498b:[CARundefined] f915626d84a7ac4b84296a9c256b144e18b5e2dbca7f2b2434ab0e1bfd381cea:[CAR1]]
+Before RW operation: map[f83a470d898a5ce367279ffc394bf1d638f3efbdd6aacd8dc16e9ea313b8498b:[CARundefined]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032M\n\014CARundefined\032={\"make\":\"Tesla\",\"model\":\"205\",\"colour\":\"brown\",\"owner\":\"Max\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"CARundefined" value:"{\"make\":\"Tesla\",\"model\":\"205\",\"colour\":\"brown\",\"owner\":\"Max\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"CARundefined" value:"{\"make\":\"Tesla\",\"model\":\"205\",\"colour\":\"brown\",\"owner\":\"Max\"}" ]
+After RW operation: map[ae26e472884df961efb2c8264f0010d02a81cfcbf41aafa43d4ae474b551205f:[CARundefined] f83a470d898a5ce367279ffc394bf1d638f3efbdd6aacd8dc16e9ea313b8498b:[CARundefined]]
+Before RW operation: map[ae26e472884df961efb2c8264f0010d02a81cfcbf41aafa43d4ae474b551205f:[CARundefined] f83a470d898a5ce367279ffc394bf1d638f3efbdd6aacd8dc16e9ea313b8498b:[CARundefined]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032R\n\014CARundefined\032B{\"make\":\"Holden\",\"model\":\"Nano\",\"colour\":\"black\",\"owner\":\"Michel\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"CARundefined" value:"{\"make\":\"Holden\",\"model\":\"Nano\",\"colour\":\"black\",\"owner\":\"Michel\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"CARundefined" value:"{\"make\":\"Holden\",\"model\":\"Nano\",\"colour\":\"black\",\"owner\":\"Michel\"}" ]
+After RW operation: map[ae26e472884df961efb2c8264f0010d02a81cfcbf41aafa43d4ae474b551205f:[CARundefined] b0908e317865222e617dab1dce85e458a29a18e1c309197bfef2d091b069867d:[CARundefined] f83a470d898a5ce367279ffc394bf1d638f3efbdd6aacd8dc16e9ea313b8498b:[CARundefined]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032H\n\004CAR4\032@{\"make\":\"Chery\",\"model\":\"Passat\",\"colour\":\"green\",\"owner\":\"Max\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"CAR4" value:"{\"make\":\"Chery\",\"model\":\"Passat\",\"colour\":\"green\",\"owner\":\"Max\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"CAR4" value:"{\"make\":\"Chery\",\"model\":\"Passat\",\"colour\":\"green\",\"owner\":\"Max\"}" ]
+After RW operation: map[413106820c4ab7c21165421216e59cf1eba1e967f7ff8cd7b0ff2c8d070f9e28:[CAR4]]
+Before RW operation: map[413106820c4ab7c21165421216e59cf1eba1e967f7ff8cd7b0ff2c8d070f9e28:[CAR4]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032P\n\004CAR3\032H{\"make\":\"Volkswagen\",\"model\":\"Punto\",\"colour\":\"brown\",\"owner\":\"Shotaro\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"CAR3" value:"{\"make\":\"Volkswagen\",\"model\":\"Punto\",\"colour\":\"brown\",\"owner\":\"Shotaro\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"CAR3" value:"{\"make\":\"Volkswagen\",\"model\":\"Punto\",\"colour\":\"brown\",\"owner\":\"Shotaro\"}" ]
+After RW operation: map[413106820c4ab7c21165421216e59cf1eba1e967f7ff8cd7b0ff2c8d070f9e28:[CAR4] dc427d50fa7f99e7beec9dd3fde8468fcb2510f82d97a948b7af694416db5147:[CAR3]]
+Before RW operation: map[413106820c4ab7c21165421216e59cf1eba1e967f7ff8cd7b0ff2c8d070f9e28:[CAR4] dc427d50fa7f99e7beec9dd3fde8468fcb2510f82d97a948b7af694416db5147:[CAR3]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032Q\n\014CARundefined\032A{\"make\":\"Ford\",\"model\":\"Mustang\",\"colour\":\"yellow\",\"owner\":\"Max\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"CARundefined" value:"{\"make\":\"Ford\",\"model\":\"Mustang\",\"colour\":\"yellow\",\"owner\":\"Max\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"CARundefined" value:"{\"make\":\"Ford\",\"model\":\"Mustang\",\"colour\":\"yellow\",\"owner\":\"Max\"}" ]
+After RW operation: map[413106820c4ab7c21165421216e59cf1eba1e967f7ff8cd7b0ff2c8d070f9e28:[CAR4] 779e3a316a0254e9c07fb42598860d73338244d5c08cc476451ce8ec30f0a842:[CARundefined] dc427d50fa7f99e7beec9dd3fde8468fcb2510f82d97a948b7af694416db5147:[CAR3]]
+Before RW operation: map[779e3a316a0254e9c07fb42598860d73338244d5c08cc476451ce8ec30f0a842:[CARundefined]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032F\n\004CAR3\032>{\"make\":\"Tata\",\"model\":\"205\",\"colour\":\"purple\",\"owner\":\"Pari\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"CAR3" value:"{\"make\":\"Tata\",\"model\":\"205\",\"colour\":\"purple\",\"owner\":\"Pari\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"CAR3" value:"{\"make\":\"Tata\",\"model\":\"205\",\"colour\":\"purple\",\"owner\":\"Pari\"}" ]
+After RW operation: map[779e3a316a0254e9c07fb42598860d73338244d5c08cc476451ce8ec30f0a842:[CARundefined] 8a074708f241b4ef46d5bb15876f9d70b0d3fec9aa0a5f5dc623474053659e1f:[CAR3]]
+Before RW operation: map[779e3a316a0254e9c07fb42598860d73338244d5c08cc476451ce8ec30f0a842:[CARundefined] 8a074708f241b4ef46d5bb15876f9d70b0d3fec9aa0a5f5dc623474053659e1f:[CAR3]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032P\n\014CARundefined\032@{\"make\":\"Ford\",\"model\":\"205\",\"colour\":\"green\",\"owner\":\"Jin Soo\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"CARundefined" value:"{\"make\":\"Ford\",\"model\":\"205\",\"colour\":\"green\",\"owner\":\"Jin Soo\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"CARundefined" value:"{\"make\":\"Ford\",\"model\":\"205\",\"colour\":\"green\",\"owner\":\"Jin Soo\"}" ]
+After RW operation: map[779e3a316a0254e9c07fb42598860d73338244d5c08cc476451ce8ec30f0a842:[CARundefined] 8a074708f241b4ef46d5bb15876f9d70b0d3fec9aa0a5f5dc623474053659e1f:[CAR3] e59e55611b7d614a1c4fb391ae3a3e20866194e453fda374ec71a5561b5d6de5:[CARundefined]]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032R\n\014Client0_CAR1\032B{\"make\":\"Tata\",\"model\":\"Nano\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR1" value:"{\"make\":\"Tata\",\"model\":\"Nano\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR1" value:"{\"make\":\"Tata\",\"model\":\"Nano\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ]
+After RW operation: map[3aaa59f87851eca59964b87c19fe248ba8f0ac873f369bc9db34a65d1b551ad0:[Client0_CAR1]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032U\n\014Client0_CAR2\032E{\"make\":\"Ford\",\"model\":\"Mustang\",\"colour\":\"purple\",\"owner\":\"Shotaro\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR2" value:"{\"make\":\"Ford\",\"model\":\"Mustang\",\"colour\":\"purple\",\"owner\":\"Shotaro\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR2" value:"{\"make\":\"Ford\",\"model\":\"Mustang\",\"colour\":\"purple\",\"owner\":\"Shotaro\"}" ]
+After RW operation: map[e84bcd7cc91022333c145a7e68e40e8a8656db43e1e8df7d265b657bc0ceefca:[Client0_CAR2]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032U\n\014Client0_CAR3\032E{\"make\":\"Chery\",\"model\":\"Mustang\",\"colour\":\"black\",\"owner\":\"Valeria\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR3" value:"{\"make\":\"Chery\",\"model\":\"Mustang\",\"colour\":\"black\",\"owner\":\"Valeria\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR3" value:"{\"make\":\"Chery\",\"model\":\"Mustang\",\"colour\":\"black\",\"owner\":\"Valeria\"}" ]
+After RW operation: map[bd9740185d21de697cbf327c41d10f7c992ca97f1da678d2d5afc7cc09e9a669:[Client0_CAR3]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032P\n\014Client0_CAR4\032@{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Adrianna\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Adrianna\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Adrianna\"}" ]
+After RW operation: map[e6bd42ca8a75f5b973d291120f5107f83fb5ed582eabd15c28d1689103244c4d:[Client0_CAR4]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032Y\n\014Client0_CAR5\032I{\"make\":\"Volkswagen\",\"model\":\"Barina\",\"colour\":\"white\",\"owner\":\"Jin Soo\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR5" value:"{\"make\":\"Volkswagen\",\"model\":\"Barina\",\"colour\":\"white\",\"owner\":\"Jin Soo\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR5" value:"{\"make\":\"Volkswagen\",\"model\":\"Barina\",\"colour\":\"white\",\"owner\":\"Jin Soo\"}" ]
+After RW operation: map[02a871b15d667d75fc43e0e4765beef9025515a11dd3051494a0d388ed521e81:[Client0_CAR5]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032M\n\014Client0_CAR6\032={\"make\":\"Tesla\",\"model\":\"S22L\",\"colour\":\"red\",\"owner\":\"Pari\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR6" value:"{\"make\":\"Tesla\",\"model\":\"S22L\",\"colour\":\"red\",\"owner\":\"Pari\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR6" value:"{\"make\":\"Tesla\",\"model\":\"S22L\",\"colour\":\"red\",\"owner\":\"Pari\"}" ]
+After RW operation: map[39588d2a87fafa177f56ada8c2edf4addd753f5c4b38ed75cd74886849654caf:[Client0_CAR6]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032R\n\014Client0_CAR7\032B{\"make\":\"Fiat\",\"model\":\"Punto\",\"colour\":\"white\",\"owner\":\"Shotaro\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR7" value:"{\"make\":\"Fiat\",\"model\":\"Punto\",\"colour\":\"white\",\"owner\":\"Shotaro\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR7" value:"{\"make\":\"Fiat\",\"model\":\"Punto\",\"colour\":\"white\",\"owner\":\"Shotaro\"}" ]
+After RW operation: map[d6d5c239808ee29f4f931679a7ec23874ea30a652219d17a9130253fab44eb15:[Client0_CAR7]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032N\n\014Client0_CAR8\032>{\"make\":\"Ford\",\"model\":\"Punto\",\"colour\":\"blue\",\"owner\":\"Pari\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR8" value:"{\"make\":\"Ford\",\"model\":\"Punto\",\"colour\":\"blue\",\"owner\":\"Pari\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR8" value:"{\"make\":\"Ford\",\"model\":\"Punto\",\"colour\":\"blue\",\"owner\":\"Pari\"}" ]
+After RW operation: map[9946cdb6d2ef831562c5d76b1c983670fe862e36762b811a36c15628fe7cc0f6:[Client0_CAR8]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032S\n\014Client0_CAR9\032C{\"make\":\"Tata\",\"model\":\"Barina\",\"colour\":\"white\",\"owner\":\"Shotaro\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR9" value:"{\"make\":\"Tata\",\"model\":\"Barina\",\"colour\":\"white\",\"owner\":\"Shotaro\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR9" value:"{\"make\":\"Tata\",\"model\":\"Barina\",\"colour\":\"white\",\"owner\":\"Shotaro\"}" ]
+After RW operation: map[a019bd31eb1283bb72b2ee667fc3b975c95147177c894d64e223e4ee10a6232d:[Client0_CAR9]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032R\n\rClient0_CAR10\032A{\"make\":\"Ford\",\"model\":\"S22L\",\"colour\":\"black\",\"owner\":\"Jin Soo\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR10" value:"{\"make\":\"Ford\",\"model\":\"S22L\",\"colour\":\"black\",\"owner\":\"Jin Soo\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR10" value:"{\"make\":\"Ford\",\"model\":\"S22L\",\"colour\":\"black\",\"owner\":\"Jin Soo\"}" ]
+After RW operation: map[305fb3cbfcc2b8e6fe0c017ff1125d1007d66033d2dc1d161f0f3b3317fb3525:[Client0_CAR10]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR4\022\002\010\016\032P\n\014Client0_CAR4\032@{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Adrianna\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR4" version:<block_num:14 > ] [] [key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Adrianna\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR4" version:<block_num:14 > ]
+Writes:[key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Adrianna\"}" ]
+Rset key: Client0_CAR4
+Result of search: false
+After RW operation: map[ef176076d0b48b6d7bd1391a9a95f9e2b9714030b770f3e59d0292758f465a41:[Client0_CAR4]]
+Before RW operation: map[ef176076d0b48b6d7bd1391a9a95f9e2b9714030b770f3e59d0292758f465a41:[Client0_CAR4]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR4\022\002\010\016\032P\n\014Client0_CAR4\032@{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Adrianna\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR4" version:<block_num:14 > ] [] [key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Adrianna\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR4" version:<block_num:14 > ]
+Writes:[key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Adrianna\"}" ]
+Rset key: Client0_CAR4
+Result of search: true
+EMVCC error occur
+Before RW operation: map[ef176076d0b48b6d7bd1391a9a95f9e2b9714030b770f3e59d0292758f465a41:[Client0_CAR4]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR4\022\002\010\016\032O\n\014Client0_CAR4\032?{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR4" version:<block_num:14 > ] [] [key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR4" version:<block_num:14 > ]
+Writes:[key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ]
+Rset key: Client0_CAR4
+Result of search: true
+EMVCC error occur
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR4\022\002\010\025\032O\n\014Client0_CAR4\032?{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR4" version:<block_num:21 > ] [] [key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR4" version:<block_num:21 > ]
+Writes:[key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ]
+Rset key: Client0_CAR4
+Result of search: false
+After RW operation: map[5d0d4829a99e9d19033eaf9856b860d88c7f5f542be895986825141402788dc6:[Client0_CAR4]]
+Before RW operation: map[5d0d4829a99e9d19033eaf9856b860d88c7f5f542be895986825141402788dc6:[Client0_CAR4]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR4\022\002\010\025\032O\n\014Client0_CAR4\032?{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR4" version:<block_num:21 > ] [] [key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR4" version:<block_num:21 > ]
+Writes:[key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ]
+Rset key: Client0_CAR4
+Result of search: true
+EMVCC error occur
+Before RW operation: map[5d0d4829a99e9d19033eaf9856b860d88c7f5f542be895986825141402788dc6:[Client0_CAR4]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR4\022\002\010\025\032L\n\014Client0_CAR4\032<{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Pari\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR4" version:<block_num:21 > ] [] [key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Pari\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR4" version:<block_num:21 > ]
+Writes:[key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Pari\"}" ]
+Rset key: Client0_CAR4
+Result of search: true
+EMVCC error occur
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR4\022\002\010\026\032M\n\014Client0_CAR4\032={\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Aarav\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR4" version:<block_num:22 > ] [] [key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Aarav\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR4" version:<block_num:22 > ]
+Writes:[key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Aarav\"}" ]
+Rset key: Client0_CAR4
+Result of search: false
+After RW operation: map[5c0b00d8751bc1adedf6c32fd00c1cbfd1f30b772998564f493e00bc7bbe47f6:[Client0_CAR4]]
+Before RW operation: map[5c0b00d8751bc1adedf6c32fd00c1cbfd1f30b772998564f493e00bc7bbe47f6:[Client0_CAR4]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR4\022\002\010\026\032O\n\014Client0_CAR4\032?{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR4" version:<block_num:22 > ] [] [key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR4" version:<block_num:22 > ]
+Writes:[key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ]
+Rset key: Client0_CAR4
+Result of search: true
+EMVCC error occur
+Before RW operation: map[5c0b00d8751bc1adedf6c32fd00c1cbfd1f30b772998564f493e00bc7bbe47f6:[Client0_CAR4]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR4\022\002\010\026\032P\n\014Client0_CAR4\032@{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Adrianna\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR4" version:<block_num:22 > ] [] [key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Adrianna\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR4" version:<block_num:22 > ]
+Writes:[key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Adrianna\"}" ]
+Rset key: Client0_CAR4
+Result of search: true
+EMVCC error occur
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR4\022\002\010\027\032N\n\014Client0_CAR4\032>{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Michel\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR4" version:<block_num:23 > ] [] [key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Michel\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR4" version:<block_num:23 > ]
+Writes:[key:"Client0_CAR4" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Michel\"}" ]
+Rset key: Client0_CAR4
+Result of search: false
+After RW operation: map[9a0a74fcd7e53e807893000b1025c3cec4bf04a37466e1c3c951b6123e2a16db:[Client0_CAR4]]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032U\n\014Client0_CAR1\032E{\"make\":\"Toyota\",\"model\":\"Punto\",\"colour\":\"indigo\",\"owner\":\"Jin Soo\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR1" value:"{\"make\":\"Toyota\",\"model\":\"Punto\",\"colour\":\"indigo\",\"owner\":\"Jin Soo\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR1" value:"{\"make\":\"Toyota\",\"model\":\"Punto\",\"colour\":\"indigo\",\"owner\":\"Jin Soo\"}" ]
+After RW operation: map[1fd9b6b0a2dd66223b427759a02ee3bdcfe38ba4279c0e045172df2a3ca669b0:[Client0_CAR1]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032U\n\014Client0_CAR2\032E{\"make\":\"Volkswagen\",\"model\":\"Nano\",\"colour\":\"purple\",\"owner\":\"Pari\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR2" value:"{\"make\":\"Volkswagen\",\"model\":\"Nano\",\"colour\":\"purple\",\"owner\":\"Pari\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR2" value:"{\"make\":\"Volkswagen\",\"model\":\"Nano\",\"colour\":\"purple\",\"owner\":\"Pari\"}" ]
+After RW operation: map[60b20c5ff41261c3fd7893aac628aaa024befd1cd8ca9a9ae1839d99313ac2ba:[Client0_CAR2]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032S\n\014Client0_CAR3\032C{\"make\":\"Holden\",\"model\":\"Mustang\",\"colour\":\"white\",\"owner\":\"Pari\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR3" value:"{\"make\":\"Holden\",\"model\":\"Mustang\",\"colour\":\"white\",\"owner\":\"Pari\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR3" value:"{\"make\":\"Holden\",\"model\":\"Mustang\",\"colour\":\"white\",\"owner\":\"Pari\"}" ]
+After RW operation: map[dc35c6c36d808333c514bc8452173b403eaf5a6a8b91a98a0da66a932aeb4bcd:[Client0_CAR3]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032N\n\014Client0_CAR4\032>{\"make\":\"Peugeot\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Max\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR4" value:"{\"make\":\"Peugeot\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Max\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR4" value:"{\"make\":\"Peugeot\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Max\"}" ]
+After RW operation: map[ad7d55b216d214459871ff9e72a481c8d440ca6fde47903e2f36085843631c4b:[Client0_CAR4]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032Q\n\014Client0_CAR5\032A{\"make\":\"Toyota\",\"model\":\"Barina\",\"colour\":\"green\",\"owner\":\"Max\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR5" value:"{\"make\":\"Toyota\",\"model\":\"Barina\",\"colour\":\"green\",\"owner\":\"Max\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR5" value:"{\"make\":\"Toyota\",\"model\":\"Barina\",\"colour\":\"green\",\"owner\":\"Max\"}" ]
+After RW operation: map[61d87b919f59bff8ac6dad270cc2b9c84e7c4f39a80d0aafb93ce157da9eb126:[Client0_CAR5]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032P\n\014Client0_CAR6\032@{\"make\":\"Tata\",\"model\":\"Barina\",\"colour\":\"purple\",\"owner\":\"Max\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR6" value:"{\"make\":\"Tata\",\"model\":\"Barina\",\"colour\":\"purple\",\"owner\":\"Max\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR6" value:"{\"make\":\"Tata\",\"model\":\"Barina\",\"colour\":\"purple\",\"owner\":\"Max\"}" ]
+After RW operation: map[46dd8610840071005f7b6b60cdb103b5063bdc8a78b7472dd95a78b65319e63b:[Client0_CAR6]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032O\n\014Client0_CAR7\032?{\"make\":\"Ford\",\"model\":\"Nano\",\"colour\":\"yellow\",\"owner\":\"Pari\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR7" value:"{\"make\":\"Ford\",\"model\":\"Nano\",\"colour\":\"yellow\",\"owner\":\"Pari\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR7" value:"{\"make\":\"Ford\",\"model\":\"Nano\",\"colour\":\"yellow\",\"owner\":\"Pari\"}" ]
+After RW operation: map[3a2cc344b7a1acfc12428d0aa48fbfae4813047aff66084a931e2631de9df548:[Client0_CAR7]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032L\n\014Client0_CAR8\032<{\"make\":\"Tata\",\"model\":\"205\",\"colour\":\"white\",\"owner\":\"Max\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR8" value:"{\"make\":\"Tata\",\"model\":\"205\",\"colour\":\"white\",\"owner\":\"Max\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR8" value:"{\"make\":\"Tata\",\"model\":\"205\",\"colour\":\"white\",\"owner\":\"Max\"}" ]
+After RW operation: map[0fca5b6b491bff48dd136dc687bbe592797b73d04defefcf66a38405d2973cbb:[Client0_CAR8]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032T\n\014Client0_CAR9\032D{\"make\":\"Chery\",\"model\":\"Punto\",\"colour\":\"brown\",\"owner\":\"Adrianna\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR9" value:"{\"make\":\"Chery\",\"model\":\"Punto\",\"colour\":\"brown\",\"owner\":\"Adrianna\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR9" value:"{\"make\":\"Chery\",\"model\":\"Punto\",\"colour\":\"brown\",\"owner\":\"Adrianna\"}" ]
+After RW operation: map[a29c9e521b60b5f05ea2889f78095f9ba2d7b4b50de74d5851ebe3c28ba650cd:[Client0_CAR9]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032T\n\rClient0_CAR10\032C{\"make\":\"Hyundai\",\"model\":\"205\",\"colour\":\"black\",\"owner\":\"Shotaro\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR10" value:"{\"make\":\"Hyundai\",\"model\":\"205\",\"colour\":\"black\",\"owner\":\"Shotaro\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR10" value:"{\"make\":\"Hyundai\",\"model\":\"205\",\"colour\":\"black\",\"owner\":\"Shotaro\"}" ]
+After RW operation: map[f03efb533681a03dcfca9de305cf0fb2f05baee4710d976cc375fba934ade6bd:[Client0_CAR10]]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032Q\n\014Client0_CAR1\032A{\"make\":\"Ford\",\"model\":\"205\",\"colour\":\"yellow\",\"owner\":\"Shotaro\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR1" value:"{\"make\":\"Ford\",\"model\":\"205\",\"colour\":\"yellow\",\"owner\":\"Shotaro\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR1" value:"{\"make\":\"Ford\",\"model\":\"205\",\"colour\":\"yellow\",\"owner\":\"Shotaro\"}" ]
+After RW operation: map[0412902e8ccd6851fa36e39ec899c5b309f74bc95338b3ed0bc92537c468159f:[Client0_CAR1]]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032M\n\014Client0_CAR1\032={\"make\":\"Tata\",\"model\":\"S\",\"colour\":\"yellow\",\"owner\":\"Aarav\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR1" value:"{\"make\":\"Tata\",\"model\":\"S\",\"colour\":\"yellow\",\"owner\":\"Aarav\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR1" value:"{\"make\":\"Tata\",\"model\":\"S\",\"colour\":\"yellow\",\"owner\":\"Aarav\"}" ]
+After RW operation: map[80e55792c10269a4b7a8e6b6012700bc5acb0a64482c6e1178c7cf47140ade82:[Client0_CAR1]]
+Before RW operation: map[80e55792c10269a4b7a8e6b6012700bc5acb0a64482c6e1178c7cf47140ade82:[Client0_CAR1]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032V\n\014Client0_CAR2\032F{\"make\":\"Peugeot\",\"model\":\"Passat\",\"colour\":\"purple\",\"owner\":\"Tomoko\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR2" value:"{\"make\":\"Peugeot\",\"model\":\"Passat\",\"colour\":\"purple\",\"owner\":\"Tomoko\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR2" value:"{\"make\":\"Peugeot\",\"model\":\"Passat\",\"colour\":\"purple\",\"owner\":\"Tomoko\"}" ]
+After RW operation: map[21356a278625bc90eb8aac6fc1214d8e46a50316db8c9a1889124f0cfa0d9e98:[Client0_CAR2] 80e55792c10269a4b7a8e6b6012700bc5acb0a64482c6e1178c7cf47140ade82:[Client0_CAR1]]
+Before RW operation: map[21356a278625bc90eb8aac6fc1214d8e46a50316db8c9a1889124f0cfa0d9e98:[Client0_CAR2] 80e55792c10269a4b7a8e6b6012700bc5acb0a64482c6e1178c7cf47140ade82:[Client0_CAR1]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032S\n\014Client0_CAR3\032C{\"make\":\"Holden\",\"model\":\"Barina\",\"colour\":\"green\",\"owner\":\"Aarav\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR3" value:"{\"make\":\"Holden\",\"model\":\"Barina\",\"colour\":\"green\",\"owner\":\"Aarav\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR3" value:"{\"make\":\"Holden\",\"model\":\"Barina\",\"colour\":\"green\",\"owner\":\"Aarav\"}" ]
+After RW operation: map[21356a278625bc90eb8aac6fc1214d8e46a50316db8c9a1889124f0cfa0d9e98:[Client0_CAR2] 80e55792c10269a4b7a8e6b6012700bc5acb0a64482c6e1178c7cf47140ade82:[Client0_CAR1] bde55d0862a550b17458ea0e37ff59f02eeef0b5bad65744722cce9fd8f6a7fa:[Client0_CAR3]]
+Before RW operation: map[21356a278625bc90eb8aac6fc1214d8e46a50316db8c9a1889124f0cfa0d9e98:[Client0_CAR2] 80e55792c10269a4b7a8e6b6012700bc5acb0a64482c6e1178c7cf47140ade82:[Client0_CAR1] bde55d0862a550b17458ea0e37ff59f02eeef0b5bad65744722cce9fd8f6a7fa:[Client0_CAR3]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032W\n\014Client0_CAR4\032G{\"make\":\"Hyundai\",\"model\":\"Tucson\",\"colour\":\"purple\",\"owner\":\"Jin Soo\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR4" value:"{\"make\":\"Hyundai\",\"model\":\"Tucson\",\"colour\":\"purple\",\"owner\":\"Jin Soo\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR4" value:"{\"make\":\"Hyundai\",\"model\":\"Tucson\",\"colour\":\"purple\",\"owner\":\"Jin Soo\"}" ]
+After RW operation: map[21356a278625bc90eb8aac6fc1214d8e46a50316db8c9a1889124f0cfa0d9e98:[Client0_CAR2] 4d5a2c3721b08c01006d2e4e45f5d2281bcb1632d8cedfc03a8a00066951c4b1:[Client0_CAR4] 80e55792c10269a4b7a8e6b6012700bc5acb0a64482c6e1178c7cf47140ade82:[Client0_CAR1] bde55d0862a550b17458ea0e37ff59f02eeef0b5bad65744722cce9fd8f6a7fa:[Client0_CAR3]]
+Before RW operation: map[21356a278625bc90eb8aac6fc1214d8e46a50316db8c9a1889124f0cfa0d9e98:[Client0_CAR2] 4d5a2c3721b08c01006d2e4e45f5d2281bcb1632d8cedfc03a8a00066951c4b1:[Client0_CAR4] 80e55792c10269a4b7a8e6b6012700bc5acb0a64482c6e1178c7cf47140ade82:[Client0_CAR1] bde55d0862a550b17458ea0e37ff59f02eeef0b5bad65744722cce9fd8f6a7fa:[Client0_CAR3]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032U\n\014Client0_CAR5\032E{\"make\":\"Peugeot\",\"model\":\"Prius\",\"colour\":\"violet\",\"owner\":\"Michel\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR5" value:"{\"make\":\"Peugeot\",\"model\":\"Prius\",\"colour\":\"violet\",\"owner\":\"Michel\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR5" value:"{\"make\":\"Peugeot\",\"model\":\"Prius\",\"colour\":\"violet\",\"owner\":\"Michel\"}" ]
+After RW operation: map[21356a278625bc90eb8aac6fc1214d8e46a50316db8c9a1889124f0cfa0d9e98:[Client0_CAR2] 38b8e5f28a4b32bc79c617598c20f726fe6ea8acd6100242cb25b69a48e16d3f:[Client0_CAR5] 4d5a2c3721b08c01006d2e4e45f5d2281bcb1632d8cedfc03a8a00066951c4b1:[Client0_CAR4] 80e55792c10269a4b7a8e6b6012700bc5acb0a64482c6e1178c7cf47140ade82:[Client0_CAR1] bde55d0862a550b17458ea0e37ff59f02eeef0b5bad65744722cce9fd8f6a7fa:[Client0_CAR3]]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032V\n\014Client0_CAR1\032F{\"make\":\"Hyundai\",\"model\":\"Barina\",\"colour\":\"green\",\"owner\":\"Jin Soo\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR1" value:"{\"make\":\"Hyundai\",\"model\":\"Barina\",\"colour\":\"green\",\"owner\":\"Jin Soo\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR1" value:"{\"make\":\"Hyundai\",\"model\":\"Barina\",\"colour\":\"green\",\"owner\":\"Jin Soo\"}" ]
+After RW operation: map[e4f4de8f5059e7401312101d985d18a8b46b23607299c856d012cdf641cdc676:[Client0_CAR1]]
+Before RW operation: map[e4f4de8f5059e7401312101d985d18a8b46b23607299c856d012cdf641cdc676:[Client0_CAR1]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032T\n\014Client0_CAR2\032D{\"make\":\"Tesla\",\"model\":\"Punto\",\"colour\":\"brown\",\"owner\":\"Adrianna\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR2" value:"{\"make\":\"Tesla\",\"model\":\"Punto\",\"colour\":\"brown\",\"owner\":\"Adrianna\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR2" value:"{\"make\":\"Tesla\",\"model\":\"Punto\",\"colour\":\"brown\",\"owner\":\"Adrianna\"}" ]
+After RW operation: map[07aecc3de7fb69c52508f0b54779e75f9e1e4950dca7bae322524dfe5d06aed7:[Client0_CAR2] e4f4de8f5059e7401312101d985d18a8b46b23607299c856d012cdf641cdc676:[Client0_CAR1]]
+Before RW operation: map[07aecc3de7fb69c52508f0b54779e75f9e1e4950dca7bae322524dfe5d06aed7:[Client0_CAR2] e4f4de8f5059e7401312101d985d18a8b46b23607299c856d012cdf641cdc676:[Client0_CAR1]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032P\n\014Client0_CAR3\032@{\"make\":\"Tata\",\"model\":\"Tucson\",\"colour\":\"black\",\"owner\":\"Pari\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR3" value:"{\"make\":\"Tata\",\"model\":\"Tucson\",\"colour\":\"black\",\"owner\":\"Pari\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR3" value:"{\"make\":\"Tata\",\"model\":\"Tucson\",\"colour\":\"black\",\"owner\":\"Pari\"}" ]
+After RW operation: map[07aecc3de7fb69c52508f0b54779e75f9e1e4950dca7bae322524dfe5d06aed7:[Client0_CAR2] c44d39a4cfcff15b8b8b7e71d396e39ac2f2d2705c68e81d0ec525ce1cba9bad:[Client0_CAR3] e4f4de8f5059e7401312101d985d18a8b46b23607299c856d012cdf641cdc676:[Client0_CAR1]]
+Before RW operation: map[c44d39a4cfcff15b8b8b7e71d396e39ac2f2d2705c68e81d0ec525ce1cba9bad:[Client0_CAR3]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032U\n\014Client0_CAR4\032E{\"make\":\"Toyota\",\"model\":\"Punto\",\"colour\":\"purple\",\"owner\":\"Shotaro\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR4" value:"{\"make\":\"Toyota\",\"model\":\"Punto\",\"colour\":\"purple\",\"owner\":\"Shotaro\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR4" value:"{\"make\":\"Toyota\",\"model\":\"Punto\",\"colour\":\"purple\",\"owner\":\"Shotaro\"}" ]
+After RW operation: map[99d3e440fbbc0819b89538e24f81b40d33e2f4b3826f912502ebb168f12f0f71:[Client0_CAR4] c44d39a4cfcff15b8b8b7e71d396e39ac2f2d2705c68e81d0ec525ce1cba9bad:[Client0_CAR3]]
+Before RW operation: map[99d3e440fbbc0819b89538e24f81b40d33e2f4b3826f912502ebb168f12f0f71:[Client0_CAR4] c44d39a4cfcff15b8b8b7e71d396e39ac2f2d2705c68e81d0ec525ce1cba9bad:[Client0_CAR3]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032M\n\014Client0_CAR5\032={\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"blue\",\"owner\":\"Shotaro\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR5" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"blue\",\"owner\":\"Shotaro\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR5" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"blue\",\"owner\":\"Shotaro\"}" ]
+After RW operation: map[14a7c43508e059b98cd82e4c9f90c21360c260fd7118913620ffce2056ae942e:[Client0_CAR5] 99d3e440fbbc0819b89538e24f81b40d33e2f4b3826f912502ebb168f12f0f71:[Client0_CAR4] c44d39a4cfcff15b8b8b7e71d396e39ac2f2d2705c68e81d0ec525ce1cba9bad:[Client0_CAR3]]
+Before RW operation: map[14a7c43508e059b98cd82e4c9f90c21360c260fd7118913620ffce2056ae942e:[Client0_CAR5]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032T\n\014Client0_CAR6\032D{\"make\":\"Hyundai\",\"model\":\"Punto\",\"colour\":\"indigo\",\"owner\":\"Aarav\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR6" value:"{\"make\":\"Hyundai\",\"model\":\"Punto\",\"colour\":\"indigo\",\"owner\":\"Aarav\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR6" value:"{\"make\":\"Hyundai\",\"model\":\"Punto\",\"colour\":\"indigo\",\"owner\":\"Aarav\"}" ]
+After RW operation: map[14a7c43508e059b98cd82e4c9f90c21360c260fd7118913620ffce2056ae942e:[Client0_CAR5] a29649e5ae32e3cef609519e7f601f1e6caf58bcb11960c07a27198c14a93e53:[Client0_CAR6]]
+Before RW operation: map[14a7c43508e059b98cd82e4c9f90c21360c260fd7118913620ffce2056ae942e:[Client0_CAR5] a29649e5ae32e3cef609519e7f601f1e6caf58bcb11960c07a27198c14a93e53:[Client0_CAR6]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032R\n\014Client0_CAR7\032B{\"make\":\"Fiat\",\"model\":\"Tucson\",\"colour\":\"blue\",\"owner\":\"Jin Soo\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR7" value:"{\"make\":\"Fiat\",\"model\":\"Tucson\",\"colour\":\"blue\",\"owner\":\"Jin Soo\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR7" value:"{\"make\":\"Fiat\",\"model\":\"Tucson\",\"colour\":\"blue\",\"owner\":\"Jin Soo\"}" ]
+After RW operation: map[14a7c43508e059b98cd82e4c9f90c21360c260fd7118913620ffce2056ae942e:[Client0_CAR5] a29649e5ae32e3cef609519e7f601f1e6caf58bcb11960c07a27198c14a93e53:[Client0_CAR6] d8a0f2e31d68e9a838254956d5b16d46fdde7f2e3fd794601ac8ff38f0cff0b6:[Client0_CAR7]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032S\n\014Client0_CAR8\032C{\"make\":\"Toyota\",\"model\":\"Mustang\",\"colour\":\"brown\",\"owner\":\"Brad\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR8" value:"{\"make\":\"Toyota\",\"model\":\"Mustang\",\"colour\":\"brown\",\"owner\":\"Brad\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR8" value:"{\"make\":\"Toyota\",\"model\":\"Mustang\",\"colour\":\"brown\",\"owner\":\"Brad\"}" ]
+After RW operation: map[1adaae484c5197c883fe0d29f1a077b55667a2e4787dfe30f6a50318fb0bf961:[Client0_CAR8]]
+Before RW operation: map[1adaae484c5197c883fe0d29f1a077b55667a2e4787dfe30f6a50318fb0bf961:[Client0_CAR8]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032T\n\014Client0_CAR9\032D{\"make\":\"Peugeot\",\"model\":\"Nano\",\"colour\":\"black\",\"owner\":\"Jin Soo\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR9" value:"{\"make\":\"Peugeot\",\"model\":\"Nano\",\"colour\":\"black\",\"owner\":\"Jin Soo\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR9" value:"{\"make\":\"Peugeot\",\"model\":\"Nano\",\"colour\":\"black\",\"owner\":\"Jin Soo\"}" ]
+After RW operation: map[1adaae484c5197c883fe0d29f1a077b55667a2e4787dfe30f6a50318fb0bf961:[Client0_CAR8] f0b55804dd998fdfe73bb87c6f5bfda7003076b7c5c6d4f0a2f18c69550db390:[Client0_CAR9]]
+Before RW operation: map[1adaae484c5197c883fe0d29f1a077b55667a2e4787dfe30f6a50318fb0bf961:[Client0_CAR8] f0b55804dd998fdfe73bb87c6f5bfda7003076b7c5c6d4f0a2f18c69550db390:[Client0_CAR9]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032S\n\rClient0_CAR10\032B{\"make\":\"Tata\",\"model\":\"Prius\",\"colour\":\"indigo\",\"owner\":\"Michel\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR10" value:"{\"make\":\"Tata\",\"model\":\"Prius\",\"colour\":\"indigo\",\"owner\":\"Michel\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR10" value:"{\"make\":\"Tata\",\"model\":\"Prius\",\"colour\":\"indigo\",\"owner\":\"Michel\"}" ]
+After RW operation: map[1adaae484c5197c883fe0d29f1a077b55667a2e4787dfe30f6a50318fb0bf961:[Client0_CAR8] be68d014c92604ab44d23ae8d418a7176f5ef46f69d6aae5679748a0640f9d68:[Client0_CAR10] f0b55804dd998fdfe73bb87c6f5bfda7003076b7c5c6d4f0a2f18c69550db390:[Client0_CAR9]]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032S\n\014Client0_CAR1\032C{\"make\":\"Peugeot\",\"model\":\"Prius\",\"colour\":\"violet\",\"owner\":\"Brad\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR1" value:"{\"make\":\"Peugeot\",\"model\":\"Prius\",\"colour\":\"violet\",\"owner\":\"Brad\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR1" value:"{\"make\":\"Peugeot\",\"model\":\"Prius\",\"colour\":\"violet\",\"owner\":\"Brad\"}" ]
+After RW operation: map[96649cd38d720c035ed64513602b64dabf78975bdaf91403c511c98859a63195:[Client0_CAR1]]
+Before RW operation: map[96649cd38d720c035ed64513602b64dabf78975bdaf91403c511c98859a63195:[Client0_CAR1]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032Q\n\014Client0_CAR2\032A{\"make\":\"Hyundai\",\"model\":\"S\",\"colour\":\"indigo\",\"owner\":\"Michel\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR2" value:"{\"make\":\"Hyundai\",\"model\":\"S\",\"colour\":\"indigo\",\"owner\":\"Michel\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR2" value:"{\"make\":\"Hyundai\",\"model\":\"S\",\"colour\":\"indigo\",\"owner\":\"Michel\"}" ]
+After RW operation: map[7ee51256d7688e314492465f44a82cbd83ffdf9bbd5f53724945f06510216edc:[Client0_CAR2] 96649cd38d720c035ed64513602b64dabf78975bdaf91403c511c98859a63195:[Client0_CAR1]]
+Before RW operation: map[7ee51256d7688e314492465f44a82cbd83ffdf9bbd5f53724945f06510216edc:[Client0_CAR2] 96649cd38d720c035ed64513602b64dabf78975bdaf91403c511c98859a63195:[Client0_CAR1]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032S\n\014Client0_CAR3\032C{\"make\":\"Volkswagen\",\"model\":\"Punto\",\"colour\":\"blue\",\"owner\":\"Max\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR3" value:"{\"make\":\"Volkswagen\",\"model\":\"Punto\",\"colour\":\"blue\",\"owner\":\"Max\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR3" value:"{\"make\":\"Volkswagen\",\"model\":\"Punto\",\"colour\":\"blue\",\"owner\":\"Max\"}" ]
+After RW operation: map[1d66571dcfe8303b6316a5ed28246bf52a5867f5faae961f2ffd876c317f77e3:[Client0_CAR3] 7ee51256d7688e314492465f44a82cbd83ffdf9bbd5f53724945f06510216edc:[Client0_CAR2] 96649cd38d720c035ed64513602b64dabf78975bdaf91403c511c98859a63195:[Client0_CAR1]]
+Before RW operation: map[1d66571dcfe8303b6316a5ed28246bf52a5867f5faae961f2ffd876c317f77e3:[Client0_CAR3] 7ee51256d7688e314492465f44a82cbd83ffdf9bbd5f53724945f06510216edc:[Client0_CAR2] 96649cd38d720c035ed64513602b64dabf78975bdaf91403c511c98859a63195:[Client0_CAR1]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032O\n\014Client0_CAR4\032?{\"make\":\"Peugeot\",\"model\":\"S\",\"colour\":\"indigo\",\"owner\":\"Pari\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR4" value:"{\"make\":\"Peugeot\",\"model\":\"S\",\"colour\":\"indigo\",\"owner\":\"Pari\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR4" value:"{\"make\":\"Peugeot\",\"model\":\"S\",\"colour\":\"indigo\",\"owner\":\"Pari\"}" ]
+After RW operation: map[1d66571dcfe8303b6316a5ed28246bf52a5867f5faae961f2ffd876c317f77e3:[Client0_CAR3] 27f0774211047ba1f164a2076a06cc7ba3082aeeec04b4a0570c32a5e6ac8fcd:[Client0_CAR4] 7ee51256d7688e314492465f44a82cbd83ffdf9bbd5f53724945f06510216edc:[Client0_CAR2] 96649cd38d720c035ed64513602b64dabf78975bdaf91403c511c98859a63195:[Client0_CAR1]]
+Before RW operation: map[1d66571dcfe8303b6316a5ed28246bf52a5867f5faae961f2ffd876c317f77e3:[Client0_CAR3] 27f0774211047ba1f164a2076a06cc7ba3082aeeec04b4a0570c32a5e6ac8fcd:[Client0_CAR4] 7ee51256d7688e314492465f44a82cbd83ffdf9bbd5f53724945f06510216edc:[Client0_CAR2] 96649cd38d720c035ed64513602b64dabf78975bdaf91403c511c98859a63195:[Client0_CAR1]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032N\n\014Client0_CAR5\032>{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Tomoko\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR5" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Tomoko\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR5" value:"{\"make\":\"Fiat\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Tomoko\"}" ]
+After RW operation: map[1d66571dcfe8303b6316a5ed28246bf52a5867f5faae961f2ffd876c317f77e3:[Client0_CAR3] 27f0774211047ba1f164a2076a06cc7ba3082aeeec04b4a0570c32a5e6ac8fcd:[Client0_CAR4] 614fb3f91626c87d2470e74e47d6ad546576b319470316fcb5665a1cec171333:[Client0_CAR5] 7ee51256d7688e314492465f44a82cbd83ffdf9bbd5f53724945f06510216edc:[Client0_CAR2] 96649cd38d720c035ed64513602b64dabf78975bdaf91403c511c98859a63195:[Client0_CAR1]]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032Z\n\014Client0_CAR1\032J{\"make\":\"Volkswagen\",\"model\":\"Tucson\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR1" value:"{\"make\":\"Volkswagen\",\"model\":\"Tucson\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR1" value:"{\"make\":\"Volkswagen\",\"model\":\"Tucson\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ]
+After RW operation: map[5720e6fd40ae8d41518433a15ff8d03e4afcb4c891e0ac0ddd8726d1966670fc:[Client0_CAR1]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032X\n\014Client0_CAR2\032H{\"make\":\"Peugeot\",\"model\":\"Tucson\",\"colour\":\"purple\",\"owner\":\"Adrianna\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR2" value:"{\"make\":\"Peugeot\",\"model\":\"Tucson\",\"colour\":\"purple\",\"owner\":\"Adrianna\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR2" value:"{\"make\":\"Peugeot\",\"model\":\"Tucson\",\"colour\":\"purple\",\"owner\":\"Adrianna\"}" ]
+After RW operation: map[11a740465f53ce05ce1ff815229df849cef0ce6468b220eb1fd954f8772b98a0:[Client0_CAR2]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032R\n\014Client0_CAR3\032B{\"make\":\"Peugeot\",\"model\":\"205\",\"colour\":\"white\",\"owner\":\"Michel\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR3" value:"{\"make\":\"Peugeot\",\"model\":\"205\",\"colour\":\"white\",\"owner\":\"Michel\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR3" value:"{\"make\":\"Peugeot\",\"model\":\"205\",\"colour\":\"white\",\"owner\":\"Michel\"}" ]
+After RW operation: map[b059dcf784a4e9a3e24a592ed62e1c1b5dbbbc00934953d2cb425fc70ec9cd2b:[Client0_CAR3]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032V\n\014Client0_CAR4\032F{\"make\":\"Volkswagen\",\"model\":\"Punto\",\"colour\":\"indigo\",\"owner\":\"Pari\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR4" value:"{\"make\":\"Volkswagen\",\"model\":\"Punto\",\"colour\":\"indigo\",\"owner\":\"Pari\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR4" value:"{\"make\":\"Volkswagen\",\"model\":\"Punto\",\"colour\":\"indigo\",\"owner\":\"Pari\"}" ]
+After RW operation: map[174626c13d0fc6dc0c49542a77f298ddd889e89cf7acee17041144ad376257f4:[Client0_CAR4]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032N\n\014Client0_CAR5\032>{\"make\":\"Ford\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Tomoko\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR5" value:"{\"make\":\"Ford\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Tomoko\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR5" value:"{\"make\":\"Ford\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Tomoko\"}" ]
+After RW operation: map[fb1b6c031e17db5456c3fa0eda2554f794445cea38e164cf15314175c3d15ecf:[Client0_CAR5]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032T\n\014Client0_CAR6\032D{\"make\":\"Hyundai\",\"model\":\"Nano\",\"colour\":\"black\",\"owner\":\"Jin Soo\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR6" value:"{\"make\":\"Hyundai\",\"model\":\"Nano\",\"colour\":\"black\",\"owner\":\"Jin Soo\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR6" value:"{\"make\":\"Hyundai\",\"model\":\"Nano\",\"colour\":\"black\",\"owner\":\"Jin Soo\"}" ]
+After RW operation: map[261527ea42e577a8cea23c97ef8a0629449c3a9f4386f2fdfb1fe2f3cce107f6:[Client0_CAR6]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032P\n\014Client0_CAR7\032@{\"make\":\"Peugeot\",\"model\":\"Tucson\",\"colour\":\"red\",\"owner\":\"Max\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR7" value:"{\"make\":\"Peugeot\",\"model\":\"Tucson\",\"colour\":\"red\",\"owner\":\"Max\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR7" value:"{\"make\":\"Peugeot\",\"model\":\"Tucson\",\"colour\":\"red\",\"owner\":\"Max\"}" ]
+After RW operation: map[89771e641db2776a45246d323f3852bce7416bfe34d1445642eb9faf4bff64f6:[Client0_CAR7]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032S\n\014Client0_CAR8\032C{\"make\":\"Tata\",\"model\":\"Passat\",\"colour\":\"yellow\",\"owner\":\"Michel\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR8" value:"{\"make\":\"Tata\",\"model\":\"Passat\",\"colour\":\"yellow\",\"owner\":\"Michel\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR8" value:"{\"make\":\"Tata\",\"model\":\"Passat\",\"colour\":\"yellow\",\"owner\":\"Michel\"}" ]
+After RW operation: map[97eaf89c5d518906f98234c098ad7bb6870a3b721a1a99f7dfc33a018011c53d:[Client0_CAR8]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032S\n\014Client0_CAR9\032C{\"make\":\"Chery\",\"model\":\"Mustang\",\"colour\":\"white\",\"owner\":\"Aarav\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR9" value:"{\"make\":\"Chery\",\"model\":\"Mustang\",\"colour\":\"white\",\"owner\":\"Aarav\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR9" value:"{\"make\":\"Chery\",\"model\":\"Mustang\",\"colour\":\"white\",\"owner\":\"Aarav\"}" ]
+After RW operation: map[e61afa2d5a23032a0eeb1ab2239ca2901aec48d02742a7cc5424616518dcd25b:[Client0_CAR9]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032T\n\rClient0_CAR10\032C{\"make\":\"Toyota\",\"model\":\"205\",\"colour\":\"violet\",\"owner\":\"Shotaro\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR10" value:"{\"make\":\"Toyota\",\"model\":\"205\",\"colour\":\"violet\",\"owner\":\"Shotaro\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR10" value:"{\"make\":\"Toyota\",\"model\":\"205\",\"colour\":\"violet\",\"owner\":\"Shotaro\"}" ]
+After RW operation: map[b0fe6a8e38a23b5669f3f83f1f10efe455014302b1c3ce816a59fcdb313339e0:[Client0_CAR10]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR1\022\002\010*\032X\n\014Client0_CAR1\032H{\"make\":\"Volkswagen\",\"model\":\"Tucson\",\"colour\":\"purple\",\"owner\":\"Aarav\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR1" version:<block_num:42 > ] [] [key:"Client0_CAR1" value:"{\"make\":\"Volkswagen\",\"model\":\"Tucson\",\"colour\":\"purple\",\"owner\":\"Aarav\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR1" version:<block_num:42 > ]
+Writes:[key:"Client0_CAR1" value:"{\"make\":\"Volkswagen\",\"model\":\"Tucson\",\"colour\":\"purple\",\"owner\":\"Aarav\"}" ]
+Rset key: Client0_CAR1
+Result of search: false
+After RW operation: map[e2281dc553666698af8253f387cf2bc45fb26d456eaa2bb243a4aab5729c3679:[Client0_CAR1]]
+Before RW operation: map[e2281dc553666698af8253f387cf2bc45fb26d456eaa2bb243a4aab5729c3679:[Client0_CAR1]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR2\022\002\010+\032S\n\014Client0_CAR2\032C{\"make\":\"Peugeot\",\"model\":\"Tucson\",\"colour\":\"purple\",\"owner\":\"Max\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR2" version:<block_num:43 > ] [] [key:"Client0_CAR2" value:"{\"make\":\"Peugeot\",\"model\":\"Tucson\",\"colour\":\"purple\",\"owner\":\"Max\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR2" version:<block_num:43 > ]
+Writes:[key:"Client0_CAR2" value:"{\"make\":\"Peugeot\",\"model\":\"Tucson\",\"colour\":\"purple\",\"owner\":\"Max\"}" ]
+Rset key: Client0_CAR2
+Result of search: false
+After RW operation: map[e2281dc553666698af8253f387cf2bc45fb26d456eaa2bb243a4aab5729c3679:[Client0_CAR1] fa94c7ea0fe16a8e3db4aec367d5aa11bed42e8105c3cb269db979d4941b0e85:[Client0_CAR2]]
+Before RW operation: map[e2281dc553666698af8253f387cf2bc45fb26d456eaa2bb243a4aab5729c3679:[Client0_CAR1] fa94c7ea0fe16a8e3db4aec367d5aa11bed42e8105c3cb269db979d4941b0e85:[Client0_CAR2]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR3\022\002\010,\032R\n\014Client0_CAR3\032B{\"make\":\"Peugeot\",\"model\":\"205\",\"colour\":\"white\",\"owner\":\"Tomoko\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR3" version:<block_num:44 > ] [] [key:"Client0_CAR3" value:"{\"make\":\"Peugeot\",\"model\":\"205\",\"colour\":\"white\",\"owner\":\"Tomoko\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR3" version:<block_num:44 > ]
+Writes:[key:"Client0_CAR3" value:"{\"make\":\"Peugeot\",\"model\":\"205\",\"colour\":\"white\",\"owner\":\"Tomoko\"}" ]
+Rset key: Client0_CAR3
+Result of search: false
+After RW operation: map[2094adc72548ccbc8f94505380af81fca4ac4db9d030f5d5927663b1c0990789:[Client0_CAR3] e2281dc553666698af8253f387cf2bc45fb26d456eaa2bb243a4aab5729c3679:[Client0_CAR1] fa94c7ea0fe16a8e3db4aec367d5aa11bed42e8105c3cb269db979d4941b0e85:[Client0_CAR2]]
+Before RW operation: map[2094adc72548ccbc8f94505380af81fca4ac4db9d030f5d5927663b1c0990789:[Client0_CAR3]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR4\022\002\010-\032X\n\014Client0_CAR4\032H{\"make\":\"Volkswagen\",\"model\":\"Punto\",\"colour\":\"indigo\",\"owner\":\"Tomoko\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR4" version:<block_num:45 > ] [] [key:"Client0_CAR4" value:"{\"make\":\"Volkswagen\",\"model\":\"Punto\",\"colour\":\"indigo\",\"owner\":\"Tomoko\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR4" version:<block_num:45 > ]
+Writes:[key:"Client0_CAR4" value:"{\"make\":\"Volkswagen\",\"model\":\"Punto\",\"colour\":\"indigo\",\"owner\":\"Tomoko\"}" ]
+Rset key: Client0_CAR4
+Result of search: false
+After RW operation: map[2094adc72548ccbc8f94505380af81fca4ac4db9d030f5d5927663b1c0990789:[Client0_CAR3] e7626a9d9873c7cb2e85f1f01ed9ab0681368286936a3ec26ab351a86f5d7350:[Client0_CAR4]]
+Before RW operation: map[2094adc72548ccbc8f94505380af81fca4ac4db9d030f5d5927663b1c0990789:[Client0_CAR3] e7626a9d9873c7cb2e85f1f01ed9ab0681368286936a3ec26ab351a86f5d7350:[Client0_CAR4]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR5\022\002\010.\032L\n\014Client0_CAR5\032<{\"make\":\"Ford\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Pari\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR5" version:<block_num:46 > ] [] [key:"Client0_CAR5" value:"{\"make\":\"Ford\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Pari\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR5" version:<block_num:46 > ]
+Writes:[key:"Client0_CAR5" value:"{\"make\":\"Ford\",\"model\":\"S\",\"colour\":\"purple\",\"owner\":\"Pari\"}" ]
+Rset key: Client0_CAR5
+Result of search: false
+After RW operation: map[2094adc72548ccbc8f94505380af81fca4ac4db9d030f5d5927663b1c0990789:[Client0_CAR3] 7020118bcaf11fcc5d62fa8014ad513100766998c4d344d76fd8385680aa784f:[Client0_CAR5] e7626a9d9873c7cb2e85f1f01ed9ab0681368286936a3ec26ab351a86f5d7350:[Client0_CAR4]]
+Before RW operation: map[7020118bcaf11fcc5d62fa8014ad513100766998c4d344d76fd8385680aa784f:[Client0_CAR5]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR6\022\002\010/\032Q\n\014Client0_CAR6\032A{\"make\":\"Hyundai\",\"model\":\"Nano\",\"colour\":\"black\",\"owner\":\"Brad\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR6" version:<block_num:47 > ] [] [key:"Client0_CAR6" value:"{\"make\":\"Hyundai\",\"model\":\"Nano\",\"colour\":\"black\",\"owner\":\"Brad\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR6" version:<block_num:47 > ]
+Writes:[key:"Client0_CAR6" value:"{\"make\":\"Hyundai\",\"model\":\"Nano\",\"colour\":\"black\",\"owner\":\"Brad\"}" ]
+Rset key: Client0_CAR6
+Result of search: false
+After RW operation: map[4183a2d7d9f134fd279ba1d3b8fcab8475b11654acc09df749ec585a0bb69df0:[Client0_CAR6] 7020118bcaf11fcc5d62fa8014ad513100766998c4d344d76fd8385680aa784f:[Client0_CAR5]]
+Before RW operation: map[4183a2d7d9f134fd279ba1d3b8fcab8475b11654acc09df749ec585a0bb69df0:[Client0_CAR6] 7020118bcaf11fcc5d62fa8014ad513100766998c4d344d76fd8385680aa784f:[Client0_CAR5]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR7\022\002\0100\032T\n\014Client0_CAR7\032D{\"make\":\"Peugeot\",\"model\":\"Tucson\",\"colour\":\"red\",\"owner\":\"Shotaro\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR7" version:<block_num:48 > ] [] [key:"Client0_CAR7" value:"{\"make\":\"Peugeot\",\"model\":\"Tucson\",\"colour\":\"red\",\"owner\":\"Shotaro\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR7" version:<block_num:48 > ]
+Writes:[key:"Client0_CAR7" value:"{\"make\":\"Peugeot\",\"model\":\"Tucson\",\"colour\":\"red\",\"owner\":\"Shotaro\"}" ]
+Rset key: Client0_CAR7
+Result of search: false
+After RW operation: map[4183a2d7d9f134fd279ba1d3b8fcab8475b11654acc09df749ec585a0bb69df0:[Client0_CAR6] 6ee0350b6d720b7edd4136985f7622f88c7dd7b5508b377c9d229004227b1656:[Client0_CAR7] 7020118bcaf11fcc5d62fa8014ad513100766998c4d344d76fd8385680aa784f:[Client0_CAR5]]
+Before RW operation: map[6ee0350b6d720b7edd4136985f7622f88c7dd7b5508b377c9d229004227b1656:[Client0_CAR7]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR8\022\002\0101\032U\n\014Client0_CAR8\032E{\"make\":\"Tata\",\"model\":\"Passat\",\"colour\":\"yellow\",\"owner\":\"Adrianna\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR8" version:<block_num:49 > ] [] [key:"Client0_CAR8" value:"{\"make\":\"Tata\",\"model\":\"Passat\",\"colour\":\"yellow\",\"owner\":\"Adrianna\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR8" version:<block_num:49 > ]
+Writes:[key:"Client0_CAR8" value:"{\"make\":\"Tata\",\"model\":\"Passat\",\"colour\":\"yellow\",\"owner\":\"Adrianna\"}" ]
+Rset key: Client0_CAR8
+Result of search: false
+After RW operation: map[6ee0350b6d720b7edd4136985f7622f88c7dd7b5508b377c9d229004227b1656:[Client0_CAR7] fbf75dc2d0ccc1f0e2160025bbac18fb39446784b2b1fe12191d1897acd74938:[Client0_CAR8]]
+Before RW operation: map[6ee0350b6d720b7edd4136985f7622f88c7dd7b5508b377c9d229004227b1656:[Client0_CAR7] fbf75dc2d0ccc1f0e2160025bbac18fb39446784b2b1fe12191d1897acd74938:[Client0_CAR8]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR9\022\002\0102\032V\n\014Client0_CAR9\032F{\"make\":\"Chery\",\"model\":\"Mustang\",\"colour\":\"white\",\"owner\":\"Adrianna\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR9" version:<block_num:50 > ] [] [key:"Client0_CAR9" value:"{\"make\":\"Chery\",\"model\":\"Mustang\",\"colour\":\"white\",\"owner\":\"Adrianna\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR9" version:<block_num:50 > ]
+Writes:[key:"Client0_CAR9" value:"{\"make\":\"Chery\",\"model\":\"Mustang\",\"colour\":\"white\",\"owner\":\"Adrianna\"}" ]
+Rset key: Client0_CAR9
+Result of search: false
+After RW operation: map[6ee0350b6d720b7edd4136985f7622f88c7dd7b5508b377c9d229004227b1656:[Client0_CAR7] a75c7e251618c29c24a8936a4a84dc093789205e8e65a3bde6b62fa33ebbc4df:[Client0_CAR9] fbf75dc2d0ccc1f0e2160025bbac18fb39446784b2b1fe12191d1897acd74938:[Client0_CAR8]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\023\n\rClient0_CAR10\022\002\0103\032T\n\rClient0_CAR10\032C{\"make\":\"Toyota\",\"model\":\"205\",\"colour\":\"violet\",\"owner\":\"Jin Soo\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR10" version:<block_num:51 > ] [] [key:"Client0_CAR10" value:"{\"make\":\"Toyota\",\"model\":\"205\",\"colour\":\"violet\",\"owner\":\"Jin Soo\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR10" version:<block_num:51 > ]
+Writes:[key:"Client0_CAR10" value:"{\"make\":\"Toyota\",\"model\":\"205\",\"colour\":\"violet\",\"owner\":\"Jin Soo\"}" ]
+Rset key: Client0_CAR10
+Result of search: false
+After RW operation: map[bfc9b0bbf8cb2dba6271984ba98ecd4d41ee87368a7738fa764057ccc7764e0f:[Client0_CAR10]]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032T\n\014Client0_CAR1\032D{\"make\":\"Hyundai\",\"model\":\"S22L\",\"colour\":\"brown\",\"owner\":\"Valeria\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR1" value:"{\"make\":\"Hyundai\",\"model\":\"S22L\",\"colour\":\"brown\",\"owner\":\"Valeria\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR1" value:"{\"make\":\"Hyundai\",\"model\":\"S22L\",\"colour\":\"brown\",\"owner\":\"Valeria\"}" ]
+After RW operation: map[9e879804f74eca555a219d88dab9771d2310af0defd9cf7b3c383e306fe732be:[Client0_CAR1]]
+Before RW operation: map[9e879804f74eca555a219d88dab9771d2310af0defd9cf7b3c383e306fe732be:[Client0_CAR1]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032U\n\014Client0_CAR2\032E{\"make\":\"Chery\",\"model\":\"Barina\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR2" value:"{\"make\":\"Chery\",\"model\":\"Barina\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR2" value:"{\"make\":\"Chery\",\"model\":\"Barina\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ]
+After RW operation: map[8f80638ffe0ce4bfaae368b908030e0cd42e559b86fe2229b3c689091d75198e:[Client0_CAR2] 9e879804f74eca555a219d88dab9771d2310af0defd9cf7b3c383e306fe732be:[Client0_CAR1]]
+Before RW operation: map[8f80638ffe0ce4bfaae368b908030e0cd42e559b86fe2229b3c689091d75198e:[Client0_CAR2] 9e879804f74eca555a219d88dab9771d2310af0defd9cf7b3c383e306fe732be:[Client0_CAR1]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032S\n\014Client0_CAR3\032C{\"make\":\"Peugeot\",\"model\":\"205\",\"colour\":\"blue\",\"owner\":\"Adrianna\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR3" value:"{\"make\":\"Peugeot\",\"model\":\"205\",\"colour\":\"blue\",\"owner\":\"Adrianna\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR3" value:"{\"make\":\"Peugeot\",\"model\":\"205\",\"colour\":\"blue\",\"owner\":\"Adrianna\"}" ]
+After RW operation: map[453be5063e13523a81f3eac55c7eb7d8b6dd3268898b08033bd0a108781feb27:[Client0_CAR3] 8f80638ffe0ce4bfaae368b908030e0cd42e559b86fe2229b3c689091d75198e:[Client0_CAR2] 9e879804f74eca555a219d88dab9771d2310af0defd9cf7b3c383e306fe732be:[Client0_CAR1]]
+Before RW operation: map[453be5063e13523a81f3eac55c7eb7d8b6dd3268898b08033bd0a108781feb27:[Client0_CAR3]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032Q\n\014Client0_CAR4\032A{\"make\":\"Ford\",\"model\":\"S22L\",\"colour\":\"white\",\"owner\":\"Valeria\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR4" value:"{\"make\":\"Ford\",\"model\":\"S22L\",\"colour\":\"white\",\"owner\":\"Valeria\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR4" value:"{\"make\":\"Ford\",\"model\":\"S22L\",\"colour\":\"white\",\"owner\":\"Valeria\"}" ]
+After RW operation: map[453be5063e13523a81f3eac55c7eb7d8b6dd3268898b08033bd0a108781feb27:[Client0_CAR3] b96e78390ed53c7f1e6955f7c3ee75b42cd09f94dea1c2081821abe100dc5ab4:[Client0_CAR4]]
+Before RW operation: map[453be5063e13523a81f3eac55c7eb7d8b6dd3268898b08033bd0a108781feb27:[Client0_CAR3] b96e78390ed53c7f1e6955f7c3ee75b42cd09f94dea1c2081821abe100dc5ab4:[Client0_CAR4]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032U\n\014Client0_CAR5\032E{\"make\":\"Peugeot\",\"model\":\"S22L\",\"colour\":\"indigo\",\"owner\":\"Shotaro\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR5" value:"{\"make\":\"Peugeot\",\"model\":\"S22L\",\"colour\":\"indigo\",\"owner\":\"Shotaro\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR5" value:"{\"make\":\"Peugeot\",\"model\":\"S22L\",\"colour\":\"indigo\",\"owner\":\"Shotaro\"}" ]
+After RW operation: map[453be5063e13523a81f3eac55c7eb7d8b6dd3268898b08033bd0a108781feb27:[Client0_CAR3] b96e78390ed53c7f1e6955f7c3ee75b42cd09f94dea1c2081821abe100dc5ab4:[Client0_CAR4] c8876c9551f4b472c5d50073906178e8bd1fb7625e4002d312629249c7bd699e:[Client0_CAR5]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032U\n\014Client0_CAR6\032E{\"make\":\"Ford\",\"model\":\"Mustang\",\"colour\":\"purple\",\"owner\":\"Jin Soo\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR6" value:"{\"make\":\"Ford\",\"model\":\"Mustang\",\"colour\":\"purple\",\"owner\":\"Jin Soo\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR6" value:"{\"make\":\"Ford\",\"model\":\"Mustang\",\"colour\":\"purple\",\"owner\":\"Jin Soo\"}" ]
+After RW operation: map[014a0eec0a2a131f249fe535255e600af37775b44576d4b43ea66a5a30ef484f:[Client0_CAR6]]
+Before RW operation: map[014a0eec0a2a131f249fe535255e600af37775b44576d4b43ea66a5a30ef484f:[Client0_CAR6]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032S\n\014Client0_CAR7\032C{\"make\":\"Holden\",\"model\":\"Barina\",\"colour\":\"yellow\",\"owner\":\"Brad\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR7" value:"{\"make\":\"Holden\",\"model\":\"Barina\",\"colour\":\"yellow\",\"owner\":\"Brad\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR7" value:"{\"make\":\"Holden\",\"model\":\"Barina\",\"colour\":\"yellow\",\"owner\":\"Brad\"}" ]
+After RW operation: map[014a0eec0a2a131f249fe535255e600af37775b44576d4b43ea66a5a30ef484f:[Client0_CAR6] f49edbb86cd22d275b64beada497efa023a562f48ab832d9356efe436d08b989:[Client0_CAR7]]
+Before RW operation: map[014a0eec0a2a131f249fe535255e600af37775b44576d4b43ea66a5a30ef484f:[Client0_CAR6] f49edbb86cd22d275b64beada497efa023a562f48ab832d9356efe436d08b989:[Client0_CAR7]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032O\n\014Client0_CAR8\032?{\"make\":\"Tata\",\"model\":\"S\",\"colour\":\"brown\",\"owner\":\"Adrianna\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR8" value:"{\"make\":\"Tata\",\"model\":\"S\",\"colour\":\"brown\",\"owner\":\"Adrianna\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR8" value:"{\"make\":\"Tata\",\"model\":\"S\",\"colour\":\"brown\",\"owner\":\"Adrianna\"}" ]
+After RW operation: map[014a0eec0a2a131f249fe535255e600af37775b44576d4b43ea66a5a30ef484f:[Client0_CAR6] 26c439535bb436144f91c9fe5f4e9e8fb6cd9ee63eaf7f87e64ba098c33e5e2c:[Client0_CAR8] f49edbb86cd22d275b64beada497efa023a562f48ab832d9356efe436d08b989:[Client0_CAR7]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032T\n\014Client0_CAR9\032D{\"make\":\"Toyota\",\"model\":\"Punto\",\"colour\":\"indigo\",\"owner\":\"Michel\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR9" value:"{\"make\":\"Toyota\",\"model\":\"Punto\",\"colour\":\"indigo\",\"owner\":\"Michel\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR9" value:"{\"make\":\"Toyota\",\"model\":\"Punto\",\"colour\":\"indigo\",\"owner\":\"Michel\"}" ]
+After RW operation: map[bddb0987743d78e4451f6cb462767e6772f4d65bb22da7064ffc55c3f90cdde8:[Client0_CAR9]]
+Before RW operation: map[bddb0987743d78e4451f6cb462767e6772f4d65bb22da7064ffc55c3f90cdde8:[Client0_CAR9]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032R\n\rClient0_CAR10\032A{\"make\":\"Fiat\",\"model\":\"S22L\",\"colour\":\"black\",\"owner\":\"Jin Soo\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR10" value:"{\"make\":\"Fiat\",\"model\":\"S22L\",\"colour\":\"black\",\"owner\":\"Jin Soo\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR10" value:"{\"make\":\"Fiat\",\"model\":\"S22L\",\"colour\":\"black\",\"owner\":\"Jin Soo\"}" ]
+After RW operation: map[7d5b53535db25642cc2745f26b27525093f15bfd51f724dafbd5472290de5de6:[Client0_CAR10] bddb0987743d78e4451f6cb462767e6772f4d65bb22da7064ffc55c3f90cdde8:[Client0_CAR9]]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032T\n\014Client0_CAR1\032D{\"make\":\"Tesla\",\"model\":\"S22L\",\"colour\":\"violet\",\"owner\":\"Adrianna\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR1" value:"{\"make\":\"Tesla\",\"model\":\"S22L\",\"colour\":\"violet\",\"owner\":\"Adrianna\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR1" value:"{\"make\":\"Tesla\",\"model\":\"S22L\",\"colour\":\"violet\",\"owner\":\"Adrianna\"}" ]
+After RW operation: map[4b220902196cf40b761146a92ae38a390087c66021b3c1a8dbd062721f677f8a:[Client0_CAR1]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032P\n\014Client0_CAR2\032@{\"make\":\"Holden\",\"model\":\"205\",\"colour\":\"blue\",\"owner\":\"Michel\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR2" value:"{\"make\":\"Holden\",\"model\":\"205\",\"colour\":\"blue\",\"owner\":\"Michel\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR2" value:"{\"make\":\"Holden\",\"model\":\"205\",\"colour\":\"blue\",\"owner\":\"Michel\"}" ]
+After RW operation: map[3a067579859c499c6532c8e3e28879b9a78dffc5edf04d4550eff461e1456d20:[Client0_CAR2]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032R\n\014Client0_CAR3\032B{\"make\":\"Chery\",\"model\":\"S22L\",\"colour\":\"black\",\"owner\":\"Valeria\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR3" value:"{\"make\":\"Chery\",\"model\":\"S22L\",\"colour\":\"black\",\"owner\":\"Valeria\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR3" value:"{\"make\":\"Chery\",\"model\":\"S22L\",\"colour\":\"black\",\"owner\":\"Valeria\"}" ]
+After RW operation: map[b6e80e9813ff8d64f14970e6c91b6cb2f4ad0f9ae2f1c3b326db16aa5f85f3e4:[Client0_CAR3]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032W\n\014Client0_CAR4\032G{\"make\":\"Volkswagen\",\"model\":\"Tucson\",\"colour\":\"yellow\",\"owner\":\"Brad\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR4" value:"{\"make\":\"Volkswagen\",\"model\":\"Tucson\",\"colour\":\"yellow\",\"owner\":\"Brad\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR4" value:"{\"make\":\"Volkswagen\",\"model\":\"Tucson\",\"colour\":\"yellow\",\"owner\":\"Brad\"}" ]
+After RW operation: map[0a963b0ab1427f78aec38ea8018462653bfc363bf482f89213564cd51a48ecc4:[Client0_CAR4]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032U\n\014Client0_CAR5\032E{\"make\":\"Hyundai\",\"model\":\"Prius\",\"colour\":\"white\",\"owner\":\"Shotaro\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR5" value:"{\"make\":\"Hyundai\",\"model\":\"Prius\",\"colour\":\"white\",\"owner\":\"Shotaro\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR5" value:"{\"make\":\"Hyundai\",\"model\":\"Prius\",\"colour\":\"white\",\"owner\":\"Shotaro\"}" ]
+After RW operation: map[51275312b8ebd8a097d86f7aad294842b84c62e4f5eb0d64d065570ab5aff0d1:[Client0_CAR5]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032T\n\014Client0_CAR6\032D{\"make\":\"Volkswagen\",\"model\":\"Nano\",\"colour\":\"white\",\"owner\":\"Pari\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR6" value:"{\"make\":\"Volkswagen\",\"model\":\"Nano\",\"colour\":\"white\",\"owner\":\"Pari\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR6" value:"{\"make\":\"Volkswagen\",\"model\":\"Nano\",\"colour\":\"white\",\"owner\":\"Pari\"}" ]
+After RW operation: map[20eb14773d0e7caefaa9b129a94d7a8af81b32cfe06d4fb2c80607aff320c08d:[Client0_CAR6]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032S\n\014Client0_CAR7\032C{\"make\":\"Peugeot\",\"model\":\"205\",\"colour\":\"blue\",\"owner\":\"Adrianna\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR7" value:"{\"make\":\"Peugeot\",\"model\":\"205\",\"colour\":\"blue\",\"owner\":\"Adrianna\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR7" value:"{\"make\":\"Peugeot\",\"model\":\"205\",\"colour\":\"blue\",\"owner\":\"Adrianna\"}" ]
+After RW operation: map[5d2a60374f8c2c4d071a203be0269730c2e645d270e5cdd143465d265f12207a:[Client0_CAR7]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032Y\n\014Client0_CAR8\032I{\"make\":\"Volkswagen\",\"model\":\"Barina\",\"colour\":\"purple\",\"owner\":\"Michel\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR8" value:"{\"make\":\"Volkswagen\",\"model\":\"Barina\",\"colour\":\"purple\",\"owner\":\"Michel\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR8" value:"{\"make\":\"Volkswagen\",\"model\":\"Barina\",\"colour\":\"purple\",\"owner\":\"Michel\"}" ]
+After RW operation: map[6ad572ea18c241f23269b45f0b111f6b868452081a3417718ba268d1d6fcad8f:[Client0_CAR8]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032M\n\014Client0_CAR9\032={\"make\":\"Ford\",\"model\":\"S\",\"colour\":\"brown\",\"owner\":\"Michel\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR9" value:"{\"make\":\"Ford\",\"model\":\"S\",\"colour\":\"brown\",\"owner\":\"Michel\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR9" value:"{\"make\":\"Ford\",\"model\":\"S\",\"colour\":\"brown\",\"owner\":\"Michel\"}" ]
+After RW operation: map[e6aeebf5ec6b37378167defc3941e4ca8e438df3d81a1efc8e46036e1ee9b6d7:[Client0_CAR9]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\032P\n\rClient0_CAR10\032?{\"make\":\"Chery\",\"model\":\"Nano\",\"colour\":\"green\",\"owner\":\"Pari\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[] [] [key:"Client0_CAR10" value:"{\"make\":\"Chery\",\"model\":\"Nano\",\"colour\":\"green\",\"owner\":\"Pari\"}" ] [] {} [] 0}
+reads:[]
+Writes:[key:"Client0_CAR10" value:"{\"make\":\"Chery\",\"model\":\"Nano\",\"colour\":\"green\",\"owner\":\"Pari\"}" ]
+After RW operation: map[59a632d2fcaecf29251280891935649952aa4838f02981816e618604be65a356:[Client0_CAR10]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR1\022\002\010=\032R\n\014Client0_CAR1\032B{\"make\":\"Tesla\",\"model\":\"S22L\",\"colour\":\"violet\",\"owner\":\"Michel\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR1" version:<block_num:61 > ] [] [key:"Client0_CAR1" value:"{\"make\":\"Tesla\",\"model\":\"S22L\",\"colour\":\"violet\",\"owner\":\"Michel\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR1" version:<block_num:61 > ]
+Writes:[key:"Client0_CAR1" value:"{\"make\":\"Tesla\",\"model\":\"S22L\",\"colour\":\"violet\",\"owner\":\"Michel\"}" ]
+Rset key: Client0_CAR1
+Result of search: false
+After RW operation: map[277a47a3275154e6d95baf37ba1ddf7ff51d8238e624eb10691fc22e73f39108:[Client0_CAR1]]
+Before RW operation: map[277a47a3275154e6d95baf37ba1ddf7ff51d8238e624eb10691fc22e73f39108:[Client0_CAR1]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR2\022\002\010>\032O\n\014Client0_CAR2\032?{\"make\":\"Holden\",\"model\":\"205\",\"colour\":\"blue\",\"owner\":\"Aarav\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR2" version:<block_num:62 > ] [] [key:"Client0_CAR2" value:"{\"make\":\"Holden\",\"model\":\"205\",\"colour\":\"blue\",\"owner\":\"Aarav\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR2" version:<block_num:62 > ]
+Writes:[key:"Client0_CAR2" value:"{\"make\":\"Holden\",\"model\":\"205\",\"colour\":\"blue\",\"owner\":\"Aarav\"}" ]
+Rset key: Client0_CAR2
+Result of search: false
+After RW operation: map[277a47a3275154e6d95baf37ba1ddf7ff51d8238e624eb10691fc22e73f39108:[Client0_CAR1] 7d0d1aa5f5e23be1c1ac879914f11f95cda0cd04b45accfd26e8af9500794288:[Client0_CAR2]]
+Before RW operation: map[277a47a3275154e6d95baf37ba1ddf7ff51d8238e624eb10691fc22e73f39108:[Client0_CAR1] 7d0d1aa5f5e23be1c1ac879914f11f95cda0cd04b45accfd26e8af9500794288:[Client0_CAR2]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR3\022\002\010?\032O\n\014Client0_CAR3\032?{\"make\":\"Chery\",\"model\":\"S22L\",\"colour\":\"black\",\"owner\":\"Brad\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR3" version:<block_num:63 > ] [] [key:"Client0_CAR3" value:"{\"make\":\"Chery\",\"model\":\"S22L\",\"colour\":\"black\",\"owner\":\"Brad\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR3" version:<block_num:63 > ]
+Writes:[key:"Client0_CAR3" value:"{\"make\":\"Chery\",\"model\":\"S22L\",\"colour\":\"black\",\"owner\":\"Brad\"}" ]
+Rset key: Client0_CAR3
+Result of search: false
+After RW operation: map[277a47a3275154e6d95baf37ba1ddf7ff51d8238e624eb10691fc22e73f39108:[Client0_CAR1] 78fc98713c9fbbb2cd1020e6d2670a20201b922fd5cc14edeef67598fe6760fb:[Client0_CAR3] 7d0d1aa5f5e23be1c1ac879914f11f95cda0cd04b45accfd26e8af9500794288:[Client0_CAR2]]
+Before RW operation: map[78fc98713c9fbbb2cd1020e6d2670a20201b922fd5cc14edeef67598fe6760fb:[Client0_CAR3]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR4\022\002\010@\032Y\n\014Client0_CAR4\032I{\"make\":\"Volkswagen\",\"model\":\"Tucson\",\"colour\":\"yellow\",\"owner\":\"Michel\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR4" version:<block_num:64 > ] [] [key:"Client0_CAR4" value:"{\"make\":\"Volkswagen\",\"model\":\"Tucson\",\"colour\":\"yellow\",\"owner\":\"Michel\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR4" version:<block_num:64 > ]
+Writes:[key:"Client0_CAR4" value:"{\"make\":\"Volkswagen\",\"model\":\"Tucson\",\"colour\":\"yellow\",\"owner\":\"Michel\"}" ]
+Rset key: Client0_CAR4
+Result of search: false
+After RW operation: map[2eadb634237615131a88629d6e7937403dc2c0b3c949ecf63b1fbcfced09cfbc:[Client0_CAR4] 78fc98713c9fbbb2cd1020e6d2670a20201b922fd5cc14edeef67598fe6760fb:[Client0_CAR3]]
+Before RW operation: map[2eadb634237615131a88629d6e7937403dc2c0b3c949ecf63b1fbcfced09cfbc:[Client0_CAR4] 78fc98713c9fbbb2cd1020e6d2670a20201b922fd5cc14edeef67598fe6760fb:[Client0_CAR3]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR5\022\002\010A\032S\n\014Client0_CAR5\032C{\"make\":\"Hyundai\",\"model\":\"Prius\",\"colour\":\"white\",\"owner\":\"Aarav\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR5" version:<block_num:65 > ] [] [key:"Client0_CAR5" value:"{\"make\":\"Hyundai\",\"model\":\"Prius\",\"colour\":\"white\",\"owner\":\"Aarav\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR5" version:<block_num:65 > ]
+Writes:[key:"Client0_CAR5" value:"{\"make\":\"Hyundai\",\"model\":\"Prius\",\"colour\":\"white\",\"owner\":\"Aarav\"}" ]
+Rset key: Client0_CAR5
+Result of search: false
+After RW operation: map[2eadb634237615131a88629d6e7937403dc2c0b3c949ecf63b1fbcfced09cfbc:[Client0_CAR4] 78fc98713c9fbbb2cd1020e6d2670a20201b922fd5cc14edeef67598fe6760fb:[Client0_CAR3] db761995edbb281c831ed5d6dbae81c9e440c8156cbb0d08d68df8b80c9f3c1c:[Client0_CAR5]]
+Before RW operation: map[]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR6\022\002\010B\032W\n\014Client0_CAR6\032G{\"make\":\"Volkswagen\",\"model\":\"Nano\",\"colour\":\"white\",\"owner\":\"Jin Soo\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR6" version:<block_num:66 > ] [] [key:"Client0_CAR6" value:"{\"make\":\"Volkswagen\",\"model\":\"Nano\",\"colour\":\"white\",\"owner\":\"Jin Soo\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR6" version:<block_num:66 > ]
+Writes:[key:"Client0_CAR6" value:"{\"make\":\"Volkswagen\",\"model\":\"Nano\",\"colour\":\"white\",\"owner\":\"Jin Soo\"}" ]
+Rset key: Client0_CAR6
+Result of search: false
+After RW operation: map[43c4a2ffef3efec28f188e4853c90d728aefd103346a52ac1039b1ab3e190400:[Client0_CAR6]]
+Before RW operation: map[43c4a2ffef3efec28f188e4853c90d728aefd103346a52ac1039b1ab3e190400:[Client0_CAR6]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR7\022\002\010C\032P\n\014Client0_CAR7\032@{\"make\":\"Peugeot\",\"model\":\"205\",\"colour\":\"blue\",\"owner\":\"Aarav\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR7" version:<block_num:67 > ] [] [key:"Client0_CAR7" value:"{\"make\":\"Peugeot\",\"model\":\"205\",\"colour\":\"blue\",\"owner\":\"Aarav\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR7" version:<block_num:67 > ]
+Writes:[key:"Client0_CAR7" value:"{\"make\":\"Peugeot\",\"model\":\"205\",\"colour\":\"blue\",\"owner\":\"Aarav\"}" ]
+Rset key: Client0_CAR7
+Result of search: false
+After RW operation: map[43c4a2ffef3efec28f188e4853c90d728aefd103346a52ac1039b1ab3e190400:[Client0_CAR6] 9eee258140738810d84057d8b52b797d0984ef4a336470137851f27bc7a225a9:[Client0_CAR7]]
+Before RW operation: map[43c4a2ffef3efec28f188e4853c90d728aefd103346a52ac1039b1ab3e190400:[Client0_CAR6] 9eee258140738810d84057d8b52b797d0984ef4a336470137851f27bc7a225a9:[Client0_CAR7]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR8\022\002\010D\032Z\n\014Client0_CAR8\032J{\"make\":\"Volkswagen\",\"model\":\"Barina\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR8" version:<block_num:68 > ] [] [key:"Client0_CAR8" value:"{\"make\":\"Volkswagen\",\"model\":\"Barina\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR8" version:<block_num:68 > ]
+Writes:[key:"Client0_CAR8" value:"{\"make\":\"Volkswagen\",\"model\":\"Barina\",\"colour\":\"purple\",\"owner\":\"Valeria\"}" ]
+Rset key: Client0_CAR8
+Result of search: false
+After RW operation: map[1c1e32481cfb6587ea25c63128d625f7dd51e787fe1a36a81e7adbf2db708c8b:[Client0_CAR8] 43c4a2ffef3efec28f188e4853c90d728aefd103346a52ac1039b1ab3e190400:[Client0_CAR6] 9eee258140738810d84057d8b52b797d0984ef4a336470137851f27bc7a225a9:[Client0_CAR7]]
+Before RW operation: map[1c1e32481cfb6587ea25c63128d625f7dd51e787fe1a36a81e7adbf2db708c8b:[Client0_CAR8]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\022\n\014Client0_CAR9\022\002\010E\032K\n\014Client0_CAR9\032;{\"make\":\"Ford\",\"model\":\"S\",\"colour\":\"brown\",\"owner\":\"Pari\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR9" version:<block_num:69 > ] [] [key:"Client0_CAR9" value:"{\"make\":\"Ford\",\"model\":\"S\",\"colour\":\"brown\",\"owner\":\"Pari\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR9" version:<block_num:69 > ]
+Writes:[key:"Client0_CAR9" value:"{\"make\":\"Ford\",\"model\":\"S\",\"colour\":\"brown\",\"owner\":\"Pari\"}" ]
+Rset key: Client0_CAR9
+Result of search: false
+After RW operation: map[1c1e32481cfb6587ea25c63128d625f7dd51e787fe1a36a81e7adbf2db708c8b:[Client0_CAR8] bfe56362d9750805cd2d60cc41aba3df2a2e976a5ec50a8ac883dfc7dfc4d79f:[Client0_CAR9]]
+Before RW operation: map[1c1e32481cfb6587ea25c63128d625f7dd51e787fe1a36a81e7adbf2db708c8b:[Client0_CAR8] bfe56362d9750805cd2d60cc41aba3df2a2e976a5ec50a8ac883dfc7dfc4d79f:[Client0_CAR9]]
+NSRWsets: [namespace:"_lifecycle" rwset:"\n'\n!namespaces/fields/fabcar/Sequence\022\002\010\005"  namespace:"fabcar" rwset:"\n\023\n\rClient0_CAR10\022\002\010F\032S\n\rClient0_CAR10\032B{\"make\":\"Chery\",\"model\":\"Nano\",\"colour\":\"green\",\"owner\":\"Shotaro\"}" ]
+kvRwset:{[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ] [] [] [] {} [] 0}
+reads:[key:"namespaces/fields/fabcar/Sequence" version:<block_num:5 > ]
+Writes:[]
+Rset key: namespaces/fields/fabcar/Sequence
+Result of search: false
+kvRwset:{[key:"Client0_CAR10" version:<block_num:70 > ] [] [key:"Client0_CAR10" value:"{\"make\":\"Chery\",\"model\":\"Nano\",\"colour\":\"green\",\"owner\":\"Shotaro\"}" ] [] {} [] 0}
+reads:[key:"Client0_CAR10" version:<block_num:70 > ]
+Writes:[key:"Client0_CAR10" value:"{\"make\":\"Chery\",\"model\":\"Nano\",\"colour\":\"green\",\"owner\":\"Shotaro\"}" ]
+Rset key: Client0_CAR10
+Result of search: false
+After RW operation: map[1c1e32481cfb6587ea25c63128d625f7dd51e787fe1a36a81e7adbf2db708c8b:[Client0_CAR8] 7983b1816fc18bb5444a969fbbd85774fb74fdb57be88eec124b87d553f76974:[Client0_CAR10] bfe56362d9750805cd2d60cc41aba3df2a2e976a5ec50a8ac883dfc7dfc4d79f:[Client0_CAR9]]
